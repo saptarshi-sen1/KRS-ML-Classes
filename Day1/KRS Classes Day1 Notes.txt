@@ -1,0 +1,55 @@
+Data analysis is the inspecting, cleaning, transforming and reading
+
+one type of data analysis
+Structured
+Unstructured
+SEmi-structured
+
+another classification of data
+
+Data pre-processing
+Handling missing values
+
+How to handle missing values
+dropping the values
+
+Dealing with outliers
+Outliers ---> Any higher or lower value which can negatively affect the ml model
+
+
+Feature scaling
+Normalizing the data in various data ranges
+
+min-max normalization(0 to 1)
+
+check out seaborn and learn for the next day
+
+Boxplot
+
+
+Correlation matrix
+We are taking the intensity of relation between the 2 datapts. It is used to check the intensity of relation
+There are 3 case
++1.Perfect positive correlation
+0.No correlation
+-1.Perfect negative correlation
+
+The correlation of a feature with the same one will always be 1
+
+annot = true
+dpi= the sharpness of the graph or the plot
+linewidth pt=border beside the grids to differentiate between the 2 cells
+
+Confusion matrix
+It is used to see the relation between the confusion matrix and the actual result that it has happened
+
+learn scikit
+
+CHeck the highest random state
+
+one hot encoder
+it makes binary columns. its is high in places where it is true else false
+
+
+3,56,64,75
+33.3%
