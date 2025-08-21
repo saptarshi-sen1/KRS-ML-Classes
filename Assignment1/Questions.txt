@@ -1,0 +1,82 @@
+ASSIGNMENT - 1
+
+(Q1) Titanic Data Exploration & Transformation
+Objective: Apply your knowledge of NumPy and Pandas to perform data cleaning, feature engineering, and basic exploration on a real-world dataset.
+Instructions:
+Download the Titanic dataset from Kaggle Titanic Dataset or use any .csv version of it available online.
+Using Pandas, complete the following tasks:
+
+ A. Data Loading and Exploration
+
+
+Load the dataset into a DataFrame.
+Display the first 5 rows.
+Print the shape and column names.
+Check for missing values in each column.
+
+
+B. Data Cleaning
+
+
+Fill missing Age values with the mean age using NumPy.
+Fill missing Embarked values with the most frequent value.
+Drop the Cabin column from the dataset.
+
+
+C. Feature Engineering
+
+
+Create a new column FamilySize = SibSp + Parch + 1.
+Convert the Sex column to numerical format using a map.
+Extract the title (e.g., Mr, Mrs, Miss) from the Name column using string methods.
+Create a binary column IsMinor where age < 18 is 1, else 0.
+
+
+D. NumPy Practice
+
+
+Use NumPy to calculate:
+Average fare for passengers who survived vs. those who didn’t.
+Standard deviation of age.
+Number of passengers with age between 20 and 40 (inclusive).
+
+
+E. Analysis
+
+
+Group the dataset by Pclass and calculate the average survival rate.
+Find the top 3 names of passengers who paid the highest fares.
+Save the Cleaned data with an appropriate name
+TITANIC dataset: https://www.kaggle.com/competitions/titanic/data
+
+(Q2) https://docs.google.com/spreadsheets/d/1sIoTv8cqQhlglIHPcV7etW5AqSym1FjXKCndg7jt9aw/edit?usp=sharing
+
+You are given a dataset student_data.csv which contains the following columns:
+
+hours_studied (float): Number of hours a student studied.
+
+attendance (float): Percentage of attendance.
+
+passed (0/1): Whether the student passed the exam (1 = Yes, 0 = No).
+
+score (float): Final exam score (0-100).
+
+
+Tasks:
+
+1. Linear Regression
+a. Build a linear regression model to predict the score of a student based on hours_studied and attendance.
+b. Evaluate the model using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
+
+
+2. Logistic Regression
+a. Build a logistic regression model to predict whether a student passed the exam based on hours_studied and attendance.
+b. Evaluate the model using Confusion Matrix, Accuracy, Precision, Recall, and F1-score.
+
+
+3. Report
+a. Compare the performance of both models.
+b. Explain which features influenced the outcome the most.
+c. Discuss any limitations of your models and suggest improvements.
+
+
