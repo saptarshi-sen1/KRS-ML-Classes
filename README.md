@@ -9,7 +9,7 @@ The project is named **Mindfall Caverns** and is structured by daily progress.
 - **Day 0** – Initial programs  
 - **Day 1** – Continued development  
 - **Day 2** – Part 1 programs
-- **Assignment 1 programs added
+- **Assignment 1** programs added
 ---
 
 ## 🔄 Last Update  
