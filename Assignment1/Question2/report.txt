@@ -1,0 +1,28 @@
+a. Compare the performance of both models
+Linear Regression (predicting score)
+Very strong performance: R² ≈ 0.96 → explains ~96% of the variation in exam scores.
+Errors are small: MAE ≈ 3, MSE ≈ 18, which means predicted scores are within close proximity from average(~3 marks).
+Logistic Regression (predicting passed)
+Perfect results on the small test set: Accuracy, Precision, Recall, F1 = 1.0.
+Confusion Matrix showed all pass/fail outcomes correctly classified.
+Due tot he small size of the dataset the accuracy is very hard to exactly predict
+TheLinear Regression gives score predictions, while Logistic Regression is providing us categorical pass/fail classification.
+
+b. Features influencing the outcome
+hours_studied: larger coefficient which indicates a very strong influence on exam score.
+attendance: positive influence, but weaker compared to hours studied.
+Interpretation: more study hours directly raise predicted scores; attendance contributes but is secondary.
+Logistic Regression coefficients
+Same pattern: hours_studied has higher weight → more study hours drastically increase probability of passing.
+attendance improves odds of passing, but with less impact.
+In both the models we can see that hours studied is the most important feature, with attendance being supportive.
+
+c. Limitations & improvements
+Limitations
+Dataset is very small (20 rows) → models likely overfit and may not generalize to unseen data.
+Only two features (hours, attendance) are considered; real-world exam performance depends on more (study quality, prior knowledge, health, stress).
+Logistic Regression showed perfect scores, but that’s likely due to dataset size → not reliable in practice.
+Improvements
+Collect more data (hundreds+ students) for robust generalization.
+Add more features (sleep hours, previous grades, assignments, etc.).
+Use cross-validation instead of a single train-test split to better estimate performance.
