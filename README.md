@@ -8,12 +8,12 @@ The project is named **Mindfall Caverns** and is structured by daily progress.
 ## 📅 Program Progress  
 - **Day 0** – Initial programs  
 - **Day 1** – Continued development  
-- **Day 2** – Part 1 programs (latest update)  
-
+- **Day 2** – Part 1 programs
+- **Assignment 1 programs added
 ---
 
 ## 🔄 Last Update  
-**17 August 2025** – Added *Day 2, Part 1* programs  
+**22 August 2025** – Added *Assignment 1* programs  
 
 ---
 
