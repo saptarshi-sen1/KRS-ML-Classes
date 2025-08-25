@@ -6,7 +6,7 @@ The project is named **Mindfall Caverns** and is structured by daily progress.
 ---
 
 ## 📅 Program Progress  
-- **Day 0** – Initial programs  
+- **Day 0** – Introduction to python
 - **Day 1** – Continued development ( Basic Python ), Numpy, Pandas
 - **Day 2** – Types of Machine Learning and Errors and their types
 - **Assignment 1** 
