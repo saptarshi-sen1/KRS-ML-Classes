@@ -1,0 +1,6 @@
+Assignment 2 Question 1
+1)Explain which distance metric performed better and why, referencing KNN’s sensitivity to outliers (Page 18) and the Iris dataset’s characteristics.
+It works better as the data is continious and properly seperated data. Manhattan is more affected in those places where there is a lot of overlapping, thus small errors can reduce its accuracy.
+
+2)Suggest one preprocessing step (e.g., scaling) to improve KNN performance and justify it.
+We can use minmax scalar to put all features in the 0,1 range so there is no dominating feaure(reduction in error during calculation).

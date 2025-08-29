@@ -1,0 +1,301 @@
+CustomerID,Name,Age,Gender,Income ($/year),Spending Score,Signup Date,Notes
+1001,Customer_0,62,Male,92847,missing,2015-10-20,returns often
+1002,Customer_1,49,,forty thousand,,2016-03-07,
+1003,Customer_2,69,F,47404,,2016-12-05,loyal
+1004,Customer_3,47,F,51009,32,2020-06-21,returns often
+1005,Customer_4,64,,,,2022-03-17,
+1006,Customer_5,52,F,forty thousand,missing,2016-02-03,
+1007,Customer_6,57,Male,,,2022-11-04,vip
+1008,Customer_7,69,Male,,8,2017-08-21,
+1009,Customer_8,33,F,,,2021-02-12,
+1010,Customer_9,30,M,forty thousand,missing,2020-08-03,returns often
+1011,,67,Male,,67,2020-01-03,loyal
+1012,Customer_11,59,Female,forty thousand,missing,2020-10-09,vip
+1013,Customer_12,47,M,46524,,2017-07-27,vip
+1014,Customer_13,36,Male,,,2016-12-10,
+1015,Customer_14,34,M,40197,,2017-03-17,prefers online
+1016,Customer_15,36,M,forty thousand,missing,2019-01-03,
+1017,Customer_16,45,Female,77692,67,2018-08-18,returns often
+1018,Customer_17,43,F,52962,,2015-01-11,
+1019,Customer_18,54,,,97,2017-12-21,vip
+1020,Customer_19,43,M,forty thousand,missing,2020-02-12,returns often
+1021,Customer_20,40,,58282,missing,2021-03-23,
+1022,Customer_21,26,Male,78567,34,2022-02-24,
+1023,Customer_22,29,Male,36084,35,2017-02-10,loyal
+1024,Customer_23,18,Male,51009,missing,2019-05-14,returns often
+1025,Customer_24,18,Female,,missing,2019-05-27,returns often
+1026,Customer_25,64,F,forty thousand,78,2018-08-26,returns often
+1027,Customer_26,51,Male,forty thousand,,2017-06-03,prefers online
+1028,Customer_27,49,Male,69343,missing,2018-10-21,vip
+1029,Customer_28,65,M,forty thousand,16,2015-08-14,
+1030,,42,Male,,,2017-04-04,vip
+1031,Customer_30,57,F,forty thousand,37,2021-03-15,prefers online
+1032,Customer_31,62,Female,forty thousand,,2017-07-25,vip
+1033,Customer_32,18,F,forty thousand,,2022-09-01,returns often
+1034,Customer_33,33,,forty thousand,missing,2021-12-28,
+1035,Customer_34,56,Female,,,2021-04-25,
+1036,Customer_35,22,F,79165,missing,2020-03-26,
+1037,Customer_36,39,M,,48,2019-12-02,loyal
+1038,Customer_37,46,M,48773,82,2015-02-23,
+1039,Customer_38,20,,forty thousand,,2016-12-27,
+1040,Customer_39,29,,61735,,2022-06-29,
+1041,Customer_40,43,Female,77689,,2019-03-25,
+1042,Customer_41,33,Male,61013,33,2017-11-09,
+1043,,68,Male,forty thousand,missing,2020-03-28,loyal
+1044,Customer_43,54,F,,,2019-11-12,loyal
+1045,Customer_44,39,Female,56266,missing,2019-05-16,
+1046,Customer_45,46,M,74574,missing,2020-03-29,prefers online
+1047,Customer_46,31,Male,,36,2021-10-02,returns often
+1048,Customer_47,45,M,80529,missing,2022-06-30,prefers online
+1049,Customer_48,22,M,,missing,2017-04-29,prefers online
+1050,Customer_49,64,M,,missing,2020-10-10,vip
+1051,Customer_50,66,Female,75876,,2021-03-13,loyal
+1052,Customer_51,47,Female,forty thousand,,2015-01-03,vip
+1053,Customer_52,63,Male,forty thousand,missing,2015-06-09,
+1054,Customer_53,69,Male,forty thousand,,2017-02-19,loyal
+1055,Customer_54,22,F,forty thousand,20,2017-06-11,returns often
+1056,Customer_55,29,M,forty thousand,,2020-07-23,
+1057,Customer_56,33,Female,,2,2021-07-04,
+1058,Customer_57,43,F,,67,2016-08-02,
+1059,,43,Female,84429,87,2020-04-17,
+1060,Customer_59,65,Female,forty thousand,12,2018-10-12,vip
+1061,Customer_60,38,Male,,20,2018-07-14,
+1062,Customer_61,56,Female,59167,missing,2019-06-29,vip
+1063,Customer_62,53,Female,forty thousand,missing,2017-08-09,returns often
+1064,Customer_63,50,Male,59510,missing,2022-05-06,loyal
+1065,Customer_64,47,F,forty thousand,,2017-09-14,prefers online
+1066,Customer_65,54,,forty thousand,missing,2018-05-03,returns often
+1067,Customer_66,40,Male,forty thousand,,2017-07-09,returns often
+1068,Customer_67,27,M,70045,missing,2022-08-17,
+1069,Customer_68,22,M,,44,2018-09-17,returns often
+1070,Customer_69,53,Female,45902,,2015-06-19,prefers online
+1071,Customer_70,51,,,86,2016-06-04,loyal
+1072,Customer_71,69,Male,44112,,2019-01-26,
+1073,,48,,59060,,2015-02-09,
+1074,Customer_73,27,Male,,74,2019-04-10,
+1075,Customer_74,36,F,forty thousand,,2018-11-19,vip
+1076,Customer_75,49,Male,67561,missing,2017-08-12,
+1077,Customer_76,18,F,,87,2017-09-10,returns often
+1078,Customer_77,22,F,forty thousand,,2017-09-01,
+1079,Customer_78,62,Female,forty thousand,,2015-02-07,prefers online
+1080,Customer_79,21,M,,missing,2021-07-03,vip
+1081,Customer_80,33,F,forty thousand,14,2018-06-28,prefers online
+1082,Customer_81,41,Female,forty thousand,9,2018-04-14,prefers online
+1083,Customer_82,33,F,,40,2019-06-14,returns often
+1084,Customer_83,19,Male,60529,missing,2017-07-02,loyal
+1085,Customer_84,66,Female,49504,,2016-03-29,returns often
+1086,Customer_85,45,M,63210,73,2015-02-06,
+1087,Customer_86,49,Male,,missing,2019-09-08,loyal
+1088,Customer_87,44,Female,forty thousand,,2017-03-06,returns often
+1089,Customer_88,37,Female,forty thousand,missing,2017-08-30,vip
+1090,Customer_89,41,M,,missing,2016-08-15,
+1091,Customer_90,29,,,missing,2018-02-11,
+1092,Customer_91,67,,forty thousand,,2018-08-17,prefers online
+1093,Customer_92,52,F,forty thousand,87,2021-03-21,
+1094,Customer_93,50,F,,37,2015-11-14,prefers online
+1095,Customer_94,50,M,37272,75,2021-07-24,returns often
+1096,Customer_95,68,F,forty thousand,70,2020-12-02,vip
+1097,Customer_96,60,M,84675,18,2022-07-08,
+1098,Customer_97,54,M,56264,,2018-09-08,loyal
+1099,,29,F,,42,2019-05-11,
+1100,Customer_99,20,,,missing,2020-03-04,returns often
+1101,,18,Female,,missing,2020-09-18,
+1102,Customer_101,50,,,34,2020-06-19,prefers online
+1103,Customer_102,57,Female,58081,,2019-11-08,vip
+1104,Customer_103,27,F,,missing,2018-08-05,prefers online
+1105,Customer_104,60,,forty thousand,,2018-07-09,
+1106,Customer_105,61,Male,,76,2015-08-04,
+1107,Customer_106,46,Female,forty thousand,,2021-07-11,vip
+1108,Customer_107,30,F,,,2020-11-09,prefers online
+1109,Customer_108,29,Male,50301,missing,2021-07-28,returns often
+1110,Customer_109,48,Female,forty thousand,27,2022-03-03,
+1111,Customer_110,63,Female,85307,57,2022-11-03,
+1112,Customer_111,19,F,73225,missing,2019-09-01,loyal
+1113,Customer_112,68,Female,forty thousand,missing,2022-09-29,loyal
+1114,Customer_113,67,F,forty thousand,missing,2015-12-29,loyal
+1115,Customer_114,52,Female,,40,2022-02-17,returns often
+1116,Customer_115,40,,47081,missing,2019-09-13,vip
+1117,Customer_116,34,Male,,,2018-04-08,prefers online
+1118,Customer_117,43,Female,,,2015-12-22,
+1119,Customer_118,25,F,44441,71,2015-07-10,
+1120,Customer_119,46,M,,missing,2021-10-05,returns often
+1121,Customer_120,43,,forty thousand,45,2016-11-30,vip
+1122,Customer_121,27,M,,17,2020-08-16,
+1123,Customer_122,43,Female,forty thousand,missing,2020-12-20,loyal
+1124,Customer_123,51,Female,88641,85,2016-07-10,
+1125,Customer_124,68,Male,39021,missing,2017-04-05,vip
+1126,Customer_125,58,F,68445,62,2022-09-09,
+1127,Customer_126,24,F,forty thousand,46,2017-11-20,vip
+1128,Customer_127,21,Female,,missing,2022-01-26,loyal
+1129,,67,Female,51114,missing,2016-03-01,
+1130,Customer_129,62,Female,,,2022-06-12,
+1131,Customer_130,28,F,60728,missing,2021-08-07,returns often
+1132,Customer_131,46,Male,,51,2019-04-24,returns often
+1133,Customer_132,53,M,64057,missing,2020-10-30,
+1134,Customer_133,42,F,,36,2021-07-31,loyal
+1135,Customer_134,38,Female,forty thousand,26,2016-08-11,vip
+1136,Customer_135,53,,forty thousand,29,2020-07-05,
+1137,Customer_136,27,Female,forty thousand,missing,2019-03-28,prefers online
+1138,Customer_137,54,F,71331,,2015-10-22,returns often
+1139,Customer_138,26,F,67514,missing,2020-06-08,loyal
+1140,Customer_139,41,M,,11,2018-06-01,vip
+1141,Customer_140,52,Male,forty thousand,missing,2019-03-29,
+1142,Customer_141,66,,71271,59,2019-08-18,returns often
+1143,Customer_142,52,M,34959,,2018-02-10,loyal
+1144,Customer_143,65,F,68150,missing,2018-06-10,
+1145,Customer_144,53,Female,,missing,2020-08-26,returns often
+1146,,35,Male,forty thousand,missing,2015-12-26,
+1147,Customer_146,66,Female,48551,,2022-12-23,
+1148,Customer_147,56,F,forty thousand,,2016-11-30,loyal
+1149,Customer_148,49,,forty thousand,,2016-03-23,loyal
+1150,Customer_149,41,,,69,2022-12-13,prefers online
+1151,Customer_150,40,Female,63896,56,2021-08-09,loyal
+1152,Customer_151,49,Female,46435,33,2016-11-05,vip
+1153,Customer_152,54,Male,69579,missing,2017-10-04,returns often
+1154,Customer_153,29,Female,35077,,2018-09-11,loyal
+1155,Customer_154,66,M,forty thousand,,2021-11-19,loyal
+1156,Customer_155,30,,41835,,2021-09-27,returns often
+1157,Customer_156,40,,,,2016-08-08,loyal
+1158,Customer_157,42,,60711,,2018-06-10,returns often
+1159,Customer_158,52,,47094,,2018-06-01,loyal
+1160,Customer_159,58,,forty thousand,,2017-09-20,vip
+1161,Customer_160,47,Male,forty thousand,missing,2018-12-06,
+1162,Customer_161,34,M,51347,66,2016-07-25,returns often
+1163,Customer_162,66,M,forty thousand,missing,2021-07-10,returns often
+1164,Customer_163,37,,forty thousand,,2018-05-30,vip
+1165,Customer_164,65,Female,,missing,2020-09-15,vip
+1166,Customer_165,42,,forty thousand,,2017-09-15,
+1167,Customer_166,39,Female,22925,missing,2015-10-05,
+1168,Customer_167,30,Female,,,2018-05-04,prefers online
+1169,,36,F,,missing,2020-03-02,loyal
+1170,Customer_169,66,F,,43,2016-04-28,
+1171,Customer_170,53,Female,65567,missing,2018-06-19,loyal
+1172,,29,F,forty thousand,25,2016-12-31,loyal
+1173,Customer_172,58,Female,forty thousand,,2021-02-17,
+1174,Customer_173,36,,,,2017-11-06,vip
+1175,Customer_174,29,M,forty thousand,,2022-01-15,prefers online
+1176,Customer_175,26,F,,44,2017-07-06,loyal
+1177,Customer_176,24,Female,,,2021-09-14,prefers online
+1178,Customer_177,45,Female,53822,94,2017-06-04,
+1179,Customer_178,31,F,52686,missing,2022-07-15,prefers online
+1180,Customer_179,48,F,,missing,2015-01-22,
+1181,Customer_180,69,Female,65917,19,2016-04-18,prefers online
+1182,Customer_181,36,F,forty thousand,44,2021-03-07,returns often
+1183,Customer_182,64,M,64347,missing,2021-06-11,
+1184,Customer_183,33,Male,forty thousand,missing,2016-12-04,
+1185,Customer_184,22,F,73067,61,2016-11-17,
+1186,Customer_185,52,,55110,missing,2015-10-12,prefers online
+1187,Customer_186,29,Male,78018,missing,2016-12-16,prefers online
+1188,Customer_187,42,Female,,57,2017-02-01,
+1189,Customer_188,69,M,forty thousand,,2018-06-04,vip
+1190,Customer_189,38,Male,,,2017-08-05,
+1191,Customer_190,53,M,forty thousand,12,2021-08-25,prefers online
+1192,Customer_191,40,,forty thousand,missing,2021-11-12,vip
+1193,Customer_192,33,,,missing,2017-10-27,
+1194,Customer_193,56,Female,85147,,2015-01-29,prefers online
+1195,Customer_194,62,Male,64904,,2017-06-25,vip
+1196,Customer_195,59,,56713,8,2020-10-27,prefers online
+1197,Customer_196,56,,,,2021-11-11,
+1198,Customer_197,31,F,forty thousand,missing,2016-07-23,
+1199,Customer_198,48,F,,81,2020-06-29,returns often
+1200,Customer_199,22,Female,forty thousand,87,2018-12-24,
+1201,Customer_200,52,,forty thousand,80,2017-01-07,returns often
+1202,Customer_201,40,F,,missing,2016-05-30,
+1203,Customer_202,46,Male,,,2020-06-23,
+1204,Customer_203,60,M,forty thousand,,2021-09-10,returns often
+1205,Customer_204,28,Male,forty thousand,,2015-02-08,loyal
+1206,,35,M,94060,89,2017-06-05,
+1207,Customer_206,64,Female,,,2022-10-15,
+1208,Customer_207,29,F,63723,missing,2021-01-13,
+1209,,26,M,,,2018-01-03,
+1210,Customer_209,27,Female,forty thousand,,2019-12-29,prefers online
+1211,Customer_210,61,Male,,26,2019-09-07,vip
+1212,Customer_211,34,M,,missing,2017-08-31,
+1213,Customer_212,55,Male,61073,missing,2019-04-12,
+1214,Customer_213,24,Female,52835,10,2022-12-06,returns often
+1215,Customer_214,63,,67185,missing,2022-08-27,loyal
+1216,Customer_215,30,,forty thousand,missing,2017-09-15,
+1217,Customer_216,57,M,75563,,2015-01-21,loyal
+1218,Customer_217,59,Female,forty thousand,missing,2021-06-08,
+1219,Customer_218,26,M,,,2017-05-18,vip
+1220,Customer_219,67,M,45319,85,2015-03-25,returns often
+1221,Customer_220,44,F,forty thousand,missing,2019-08-10,
+1222,Customer_221,19,F,65660,,2020-05-30,
+1223,Customer_222,22,M,forty thousand,,2018-11-11,prefers online
+1224,Customer_223,46,,46168,,2019-03-11,prefers online
+1225,Customer_224,54,Male,,,2016-07-23,vip
+1226,Customer_225,55,Male,80335,,2017-07-22,prefers online
+1227,Customer_226,36,,66202,missing,2020-06-03,prefers online
+1228,Customer_227,25,,88152,,2020-01-30,prefers online
+1229,Customer_228,65,Female,48393,59,2017-03-03,returns often
+1230,Customer_229,62,F,forty thousand,,2017-03-02,
+1231,Customer_230,18,M,forty thousand,,2019-12-15,loyal
+1232,Customer_231,39,Male,,,2018-07-18,vip
+1233,Customer_232,69,,69815,95,2021-12-14,returns often
+1234,Customer_233,34,F,,94,2021-03-05,
+1235,Customer_234,24,M,,39,2019-05-27,returns often
+1236,Customer_235,42,M,,missing,2017-12-19,
+1237,Customer_236,62,,,missing,2021-10-13,vip
+1238,,21,Male,61938,,2017-09-11,
+1239,Customer_238,53,M,,17,2019-08-08,loyal
+1240,Customer_239,23,F,,,2016-06-03,vip
+1241,Customer_240,48,Female,,31,2016-08-13,
+1242,Customer_241,36,M,forty thousand,missing,2017-11-16,prefers online
+1243,Customer_242,61,F,forty thousand,missing,2019-09-06,
+1244,Customer_243,56,F,,60,2020-07-28,prefers online
+1245,,44,,,,2021-02-24,
+1246,Customer_245,27,Male,forty thousand,,2021-08-31,vip
+1247,Customer_246,43,M,forty thousand,,2015-12-15,returns often
+1248,Customer_247,36,F,,,2017-08-17,
+1249,Customer_248,56,M,45156,43,2020-05-17,returns often
+1250,Customer_249,20,F,,40,2016-11-23,loyal
+1251,Customer_250,62,Female,forty thousand,,2019-04-09,returns often
+1252,Customer_251,30,Female,76413,missing,2016-01-13,loyal
+1253,Customer_252,67,Male,forty thousand,,2016-06-10,prefers online
+1254,Customer_253,45,,forty thousand,,2022-08-13,loyal
+1255,Customer_254,37,Male,,missing,2021-03-03,returns often
+1256,Customer_255,45,F,53597,missing,2021-11-07,returns often
+1257,Customer_256,25,,44818,,2018-06-13,prefers online
+1258,Customer_257,58,Female,,missing,2020-02-19,returns often
+1259,Customer_258,56,Female,72348,25,2019-10-30,loyal
+1260,Customer_259,18,M,forty thousand,missing,2016-06-04,loyal
+1261,Customer_260,20,Female,40651,missing,2019-08-29,
+1262,Customer_261,30,M,,33,2017-10-13,
+1263,Customer_262,45,M,forty thousand,,2022-08-05,vip
+1264,Customer_263,66,Female,85035,,2017-10-10,loyal
+1265,Customer_264,42,Female,,,2021-12-23,returns often
+1266,Customer_265,50,,37453,missing,2015-04-27,returns often
+1267,Customer_266,55,F,forty thousand,,2021-08-30,returns often
+1268,Customer_267,23,F,,missing,2018-09-29,vip
+1269,Customer_268,61,,,34,2016-08-06,loyal
+1270,Customer_269,62,Male,59186,missing,2016-01-30,
+1271,Customer_270,49,Male,56536,missing,2017-12-23,returns often
+1272,Customer_271,62,M,70443,,2022-07-31,vip
+1273,Customer_272,64,Male,forty thousand,18,2015-03-13,prefers online
+1274,Customer_273,38,M,76898,missing,2015-10-01,loyal
+1275,Customer_274,33,Male,55967,,2020-07-06,prefers online
+1276,Customer_275,38,,,,2018-09-05,returns often
+1277,Customer_276,28,F,,,2015-12-04,returns often
+1278,Customer_277,54,M,forty thousand,missing,2018-10-21,
+1279,Customer_278,53,Female,,,2016-08-29,
+1280,Customer_279,52,F,59638,,2015-06-15,loyal
+1281,Customer_280,36,F,62971,missing,2019-04-17,vip
+1282,Customer_281,37,F,forty thousand,,2020-08-20,
+1283,Customer_282,35,,,57,2018-08-17,loyal
+1284,Customer_283,64,,forty thousand,,2016-12-29,
+1285,Customer_284,58,Male,59509,56,2022-10-19,prefers online
+1286,,66,Male,,missing,2020-08-05,
+1287,Customer_286,31,Female,,30,2015-04-12,
+1288,Customer_287,32,,forty thousand,25,2018-11-16,loyal
+1289,Customer_288,48,,56175,missing,2017-02-17,returns often
+1290,Customer_289,18,Female,forty thousand,,2015-08-02,
+1291,,20,F,20235,,2018-01-16,prefers online
+1292,,33,M,76373,,2019-04-26,prefers online
+1293,Customer_292,40,Male,,missing,2021-09-14,
+1294,Customer_293,28,Male,28899,3,2022-03-20,loyal
+1295,Customer_294,29,M,forty thousand,45,2019-08-23,loyal
+1296,Customer_295,27,,54428,14,2016-08-14,returns often
+1297,Customer_296,49,F,forty thousand,30,2018-08-26,prefers online
+1298,Customer_297,33,Male,,68,2018-01-14,returns often
+1299,Customer_298,25,Female,,,2020-11-09,
+1300,Customer_299,55,,forty thousand,missing,2022-06-13,returns often
