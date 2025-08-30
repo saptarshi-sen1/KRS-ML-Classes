@@ -12,6 +12,8 @@ The project is named **Mindfall Caverns** and is structured by daily progress.
 - **Assignment 1** 
 - **Day3** - KNN & SVM
 - **Day4** - Naive Bayes & Clustering
+- **Assignment2**
+- **Day5** - Random Forest
 
 ---
 
